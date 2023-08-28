@@ -1,0 +1,15 @@
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\bin\Debug\net6.0\Builder.exe
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\bin\Debug\net6.0\Builder.deps.json
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\bin\Debug\net6.0\Builder.dll
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\bin\Debug\net6.0\Builder.pdb
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\Builder.dll
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\refint\Builder.dll
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\Builder.pdb
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+C:\Users\mikol\RiderProjects\Wzorce projektowe\Builder\obj\Debug\net6.0\ref\Builder.dll
